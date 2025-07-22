@@ -115,35 +115,33 @@
 
 ## 🎥 Video 4: Importance of Cybersecurity
 
-1. *Importance of Security*
+1. **Importance of Security**
 
 * Protects physical and digital assets.
 * Ensures business continuity and ethical standing.
 * Involves legal implications and moral considerations.
 
-2. *Impact of Data Breaches*
+2. **Impact of Data Breaches**
 
 * Affects organizational reputation and user trust.
 * Data losses can harm clients and customers.
 * Strong security measures can lead to financial growth.
 
-3. *Personally Identifiable Information (PII)*
+3. **Personally Identifiable Information (PII)**
 
 * Definition: Information that can identify an individual.
 * Examples: Full name, date of birth, address, phone number, email, IP address.
-* Sensitive PII (SPII): Includes social security numbers, medical/financial information, and biometric data.
+* *Sensitive PII (SPII)*: Includes social security numbers, medical/financial information, and biometric data.
 
-4. *Identity Theft*
+4. **Identity Theft**
 
 * Definition: Stealing personal information to commit fraud.
 * Primary concern: Financial gain through impersonation.
 
-5. *Demand for Security Professionals*
+5. **Demand for Security Professionals**
 
 * Growing need for security analysts.
 * Projected increase of over 30% in demand by 2030.
 * Importance of continuous learning to contribute to a secure environment.
 
 ---
-
-## ✅ End of Module 1 Notes
