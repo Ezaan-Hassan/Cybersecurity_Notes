@@ -19,7 +19,7 @@ This repo is where I upload **notes, certificates, and projects** from my learni
 
 | Course | Module | Link |
 |--------|--------|------|
-| Google Cybersecurity | Module 1 |
+| Google Cybersecurity | Module 1 | [View Notes](./Google_Cybersecurity/Module1_Notes.md) |
 
 ---
 
