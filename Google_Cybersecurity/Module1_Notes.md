@@ -53,8 +53,8 @@
 
 * **Importance of Security Analysts**:
 
- * Protect various organizations (small businesses, large companies, nonprofits, government agencies).
- * Ensure the safety of individuals served by these organizations.
+   * Protect various organizations (small businesses, large companies, nonprofits, government agencies).
+   * Ensure the safety of individuals served by these organizations.
 
 ---
 
