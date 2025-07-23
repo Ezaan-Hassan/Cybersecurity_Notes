@@ -8,7 +8,7 @@
 
 * **Cybersecurity Definition**:
 
-  * Practice of ensuring *confidentiality*, **integrity**, and **availability** of information.
+  * Practice of ensuring **confidentiality**, **integrity**, and **availability** of information.
   * Protects networks, devices, and data from *unauthorized access*.
 
 * **Types of Threats**:
@@ -51,10 +51,10 @@
    * Review security records and activities.
    * Ensure confidential information (e.g., passwords) is not accessible to unauthorized personnel.
 
-**Importance of Security Analysts**:
+* **Importance of Security Analysts**:
 
-* Protect various organizations (small businesses, large companies, nonprofits, government agencies).
-* Ensure the safety of individuals served by these organizations.
+ * Protect various organizations (small businesses, large companies, nonprofits, government agencies).
+ * Ensure the safety of individuals served by these organizations.
 
 ---
 
