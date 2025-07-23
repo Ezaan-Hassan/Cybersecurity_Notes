@@ -2,7 +2,7 @@
 Notes from my Google, Cisco, and other cybersecurity courses.
 # 🔐 Cybersecurity Notes Repository
 
-Hi! I'm Ezaan Hassan — an A-Level Computer Science student.  
+Hi! I'm Ezaan Hassan, an A-Level Computer Science student.  
 This repo is where I upload **notes, certificates, and projects** from my learning journey in **Cybersecurity**.
 
 ---
@@ -19,7 +19,7 @@ This repo is where I upload **notes, certificates, and projects** from my learni
 
 | Course | Module | Link |
 |--------|--------|------|
-| Foundation Of Cybersecurity by Gooogle | Module 1 | [View Notes](./Google_Cybersecurity/Module1_Notes.md) |
+| Foundation Of Cybersecurity by Google | Module 1 | [View Notes](./Google_Cybersecurity/Module1_Notes.md) |
 
 ---
 
