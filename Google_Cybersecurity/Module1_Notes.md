@@ -1,6 +1,6 @@
 # 📘 Google Cybersecurity Certificate
 
-## Module 1: Foundations of Cybersecurity
+## Module 1: Welcome To The Exciting World Of Cybersecurity
 
 ---
 
@@ -10,6 +10,15 @@
 
   * Practice of ensuring **confidentiality**, **integrity**, and **availability** of information.
   * Protects networks, devices, and data from *unauthorized access*.
+
+- The **CIA triad** is a foundational model in cybersecurity that represents three core principles essential for securing information:
+
+    * **Confidentiality**: Ensures that sensitive information is accessed only by authorized individuals. This can be achieved through encryption, access controls, and authentication measures.
+
+    * **Integrity**: Guarantees that data remains accurate and unaltered during storage and transmission. Techniques such as hashing, checksums, and digital signatures help maintain data integrity.
+
+    * **Availability**: Ensures that information and resources are accessible to authorized users when needed. This involves implementing redundancy, failover systems, and regular maintenance to prevent downtime.
+
 
 * **Types of Threats**:
 
@@ -117,31 +126,31 @@
 
 1. **Importance of Security**
 
-* Protects physical and digital assets.
-* Ensures business continuity and ethical standing.
-* Involves legal implications and moral considerations.
+    * Protects physical and digital assets.
+    * Ensures business continuity and ethical standing.
+    * Involves legal implications and moral considerations.
 
 2. **Impact of Data Breaches**
 
-* Affects organizational reputation and user trust.
-* Data losses can harm clients and customers.
-* Strong security measures can lead to financial growth.
+    * Affects organizational reputation and user trust.
+    * Data losses can harm clients and customers.
+    * Strong security measures can lead to financial growth.
 
 3. **Personally Identifiable Information (PII)**
 
-* Definition: Information that can identify an individual.
-* Examples: Full name, date of birth, address, phone number, email, IP address.
-* *Sensitive PII (SPII)*: Includes social security numbers, medical/financial information, and biometric data.
+    * Definition: Information that can identify an individual.
+    * Examples: Full name, date of birth, address, phone number, email, IP address.
+    * *Sensitive PII (SPII)*: Includes social security numbers, medical/financial information, and biometric data.
 
 4. **Identity Theft**
 
-* Definition: Stealing personal information to commit fraud.
-* Primary concern: Financial gain through impersonation.
+    * Definition: Stealing personal information to commit fraud.
+    * Primary concern: Financial gain through impersonation.
 
 5. **Demand for Security Professionals**
 
-* Growing need for security analysts.
-* Projected increase of over 30% in demand by 2030.
-* Importance of continuous learning to contribute to a secure environment.
+    * Growing need for security analysts.
+    * Projected increase of over 30% in demand by 2030.
+    * Importance of continuous learning to contribute to a secure environment.
 
 ---
