@@ -31,29 +31,21 @@
 
 ### 1. LoveLetter Attack
 
-- *Year*: 2000
-- *Creator*: Onel De Guzman
-- *Method*: Spread through emails with the subject "I Love You."
-- *Mechanism*: 
-  - Users opened an attachment labeled "Love Letter For You."
-  - Malware scanned the user's address book and sent itself to contacts.
-  - Collected user information and passwords.
-- *Impact*: 
-  - Infected 45 million computers globally.
-  - Estimated damages over $10 billion.
-- *Significance*: First example of **social engineering**.
+* Created by Onel De Guzman and spread through emails with the subject "I Love You."
+* Users opened an attachment labeled "Love Letter For You," allowing the malware to scan the user's address book, send itself to contacts, and collect information and passwords.
+* *Impact*: 
+  * Infected 45 million computers globally.
+  * Estimated damages over $10 billion.
+* *Significance*: First example of **social engineering**.
 
 ### 2. Equifax Breach
 
-- *Year*: 2017
-- *Target*: Equifax (credit reporting agency)
-- *Data Compromised*: 
-  - Over 143 million customer records.
-  - Included social security numbers, birth dates, driver's license numbers, home addresses, and credit card numbers.
-- *Cause*: Multiple security failures; failure to fix known vulnerabilities.
-- *Outcome*: 
-  - Settled with the U.S. government for over $575 million.
-  - Highlighted the financial impact of data breaches.
+* Targeted the credit reporting agency Equifax and compromised over 143 million customer records.
+* Data included social security numbers, birth dates, driver's license numbers, home addresses, and credit card numbers.
+* Caused by multiple security failures and failure to fix known vulnerabilities.
+* Settled with the U.S. government for over $575 million and highlighted the financial impact of data breaches.
+* *Significance*: 
+  * Highlighted the financial impact of data breaches.
 
 ---
 
@@ -61,10 +53,10 @@
 
 ### Common Methods of Cybersecurity Attacks
 
-#### Phishing
+1. #### Phishing
 
-- **Definition**: Phishing involves using digital communications, such as emails or messages, to deceive individuals into revealing sensitive information or installing malicious software.
-- **Types**:
+* Phishing involves using digital communications, such as emails or messages, to deceive individuals into revealing sensitive information or installing malicious software.
+* **Types**:
   - **Business Email Compromise (BEC)**: 
     - A threat actor sends an email that appears to be from a trusted source, often requesting sensitive information or financial transactions.
     - This method exploits the trust established in business communications.
@@ -80,9 +72,9 @@
   - **Smishing**: 
     - SMS phishing that uses text messages to deceive users into revealing personal information or clicking on malicious links.
 
-#### Malware
+2. #### Malware
 
-- **Definition**: Malware is software specifically designed to disrupt, damage, or gain unauthorized access to computer systems and networks.
+- Malware is software specifically designed to disrupt, damage, or gain unauthorized access to computer systems and networks.
 - **Types**:
   - **Viruses**: 
     - Malicious code that attaches itself to legitimate files and requires user action (e.g., opening an infected file) to spread.
@@ -97,9 +89,9 @@
     - Software that secretly gathers user information without consent, often used to collect personal data such as passwords, credit card numbers, and browsing habits.
     - Spyware can also monitor user activity and send the collected data to the attacker.
 
-#### Social Engineering
+3. #### Social Engineering
 
-- **Definition**: Social engineering is a manipulation technique that exploits human psychology to gain confidential information, access, or valuables.
+- Social engineering is a manipulation technique that exploits human psychology to gain confidential information, access, or valuables.
 - **Common Types**:
   - **Social Media Phishing**: 
     - Threat actors gather detailed information about targets from social media platforms to craft personalized attacks.
@@ -112,22 +104,22 @@
   - **Physical Social Engineering**: 
     - Involves impersonating employees, customers, or vendors to gain unauthorized access to physical locations, such as offices or data centers.
 
-#### Principles of Social Engineering
+* #### Principles of Social Engineering
 
-- **Authority**: 
-  - Threat actors impersonate individuals with power or authority, exploiting the natural tendency of people to comply with requests from perceived authority figures.
-- **Intimidation**: 
-  - Using threats or aggressive tactics to persuade victims to comply with requests, often creating a sense of fear or urgency.
-- **Consensus/Social Proof**: 
-  - Leveraging the idea that if others are doing something, it must be legitimate, thus convincing victims to follow suit.
-- **Scarcity**: 
-  - Creating a false sense of urgency by implying that a product or service is in limited supply, prompting quick action without careful consideration.
-- **Familiarity**: 
-  - Establishing a false emotional connection with the target, making them more likely to trust the attacker.
-- **Trust**: 
-  - Building a relationship over time to gain personal information, often through repeated interactions that seem benign.
-- **Urgency**: 
-  - Encouraging rapid responses to requests, often without allowing time for critical thinking or verification.
+ 1. **Authority**: 
+    - Threat actors impersonate individuals with power or authority, exploiting the natural tendency of people to comply with requests from perceived authority figures.
+ 2. **Intimidation**: 
+    - Using threats or aggressive tactics to persuade victims to comply with requests, often creating a sense of fear or urgency.
+ 3. **Consensus/Social Proof**: 
+    - Leveraging the idea that if others are doing something, it must be legitimate, thus convincing victims to follow suit.
+ 4. **Scarcity**: 
+    - Creating a false sense of urgency by implying that a product or service is in limited supply, prompting quick action without careful consideration.
+ 5. **Familiarity**: 
+    - Establishing a false emotional connection with the target, making them more likely to trust the attacker.
+ 6. **Trust**: 
+    - Building a relationship over time to gain personal information, often through repeated interactions that seem benign.
+ 7. **Urgency**: 
+    - Encouraging rapid responses to requests, often without allowing time for critical thinking or verification.
 
 ---
 
