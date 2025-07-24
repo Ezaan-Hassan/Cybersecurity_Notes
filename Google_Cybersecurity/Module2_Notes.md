@@ -53,7 +53,7 @@
 
 ### Common Methods of Cybersecurity Attacks
 
-1. #### Phishing
+#### 1. Phishing
 
 * Phishing involves using digital communications, such as emails or messages, to deceive individuals into revealing sensitive information or installing malicious software.
 * **Types**:
@@ -72,7 +72,7 @@
   - **Smishing**: 
     - SMS phishing that uses text messages to deceive users into revealing personal information or clicking on malicious links.
 
-2. #### Malware
+#### 2. Malware
 
 - Malware is software specifically designed to disrupt, damage, or gain unauthorized access to computer systems and networks.
 - **Types**:
@@ -89,7 +89,7 @@
     - Software that secretly gathers user information without consent, often used to collect personal data such as passwords, credit card numbers, and browsing habits.
     - Spyware can also monitor user activity and send the collected data to the attacker.
 
-3. #### Social Engineering
+#### 3. Social Engineering
 
 - Social engineering is a manipulation technique that exploits human psychology to gain confidential information, access, or valuables.
 - **Common Types**:
@@ -127,7 +127,7 @@
 
 ### Security Domains Overview
 
-1. **Security and Risk Management**
+**1. Security and Risk Management**
    - **Definition**: Focuses on establishing security goals and objectives to protect organizational assets.
    - **Key Areas**:
      - Risk mitigation strategies to minimize potential threats.
@@ -135,7 +135,7 @@
      - Business continuity planning to ensure operations can continue during disruptions.
    - **Example**: Security analysts may need to update company policies related to private health information when there are changes to federal compliance regulations, such as the Health Insurance Portability and Accountability Act (HIPAA).
 
-2. **Asset Security**
+**2. Asset Security**
    - **Definition**: Concentrates on securing both digital and physical assets within an organization.
    - **Key Areas**:
      - Proper storage and maintenance of sensitive data.
@@ -143,7 +143,7 @@
      - Secure destruction of data and equipment to prevent unauthorized access.
    - **Example**: Security analysts are responsible for ensuring that old equipment, which may contain confidential information, is properly disposed of and destroyed to prevent data breaches.
 
-3. **Security Architecture and Engineering**
+**3. Security Architecture and Engineering**
    - **Definition**: Focuses on designing and implementing secure systems and processes to protect data.
    - **Key Areas**:
      - Selection and configuration of security tools and technologies.
@@ -151,7 +151,7 @@
      - Continuous assessment and improvement of security architecture.
    - **Example**: A security analyst may be tasked with configuring a firewall, which is a device that monitors and filters incoming and outgoing network traffic, to prevent unauthorized access and attacks that could disrupt productivity.
 
-4. **Communication and Network Security**
+**4. Communication and Network Security**
    - **Definition**: Involves managing and securing both physical networks and wireless communications to protect data in transit.
    - **Key Areas**:
      - Implementation of secure communication protocols.
@@ -159,7 +159,7 @@
      - Development of policies to mitigate exposure to threats.
    - **Example**: If analysts discover that users are connecting to unsecured wireless hotspots, they would create a network policy to prevent such behavior, thereby reducing the risk of attacks on the organization and its employees.
 
-5. **Identity and Access Management**
+**5. Identity and Access Management**
    - **Purpose**: Focuses on securing data by ensuring users follow established policies.
    - **Key Activities**:
      - Managing physical assets (e.g., office spaces) and logical assets (e.g., networks, applications).
@@ -167,7 +167,7 @@
      - Documenting access roles to maintain security and accountability.
    - **Example**: A security analyst may set up keycard access for employees to restricted areas.
 
-6. **Security Assessment and Testing**
+**6. Security Assessment and Testing**
    - **Purpose**: Aims to identify risks, threats, and vulnerabilities through systematic testing.
    - **Key Activities**:
      - Conducting security control testing to evaluate the effectiveness of security measures.
@@ -175,7 +175,7 @@
      - Performing regular security audits to ensure compliance with access policies.
    - **Example**: Analysts may audit permissions for payroll information to ensure only authorized employees can access sensitive data.
 
-7. **Security Operations**
+**7. Security Operations**
    - **Purpose**: Focuses on responding to security incidents and implementing preventative measures.
    - **Key Activities**:
      - Conducting investigations into security alerts and incidents.
@@ -183,7 +183,7 @@
      - Monitoring network activity for unusual behavior or unauthorized access.
    - **Example**: If an unknown device connects to the internal network, a security analyst must follow procedures to investigate and neutralize the threat.
 
-8. **Software Development Security**
+**8. Software Development Security**
    - **Purpose**: Ensures that security practices are integrated into the software development process.
    - **Key Activities**:
      - Utilizing secure coding practices to prevent vulnerabilities in applications.
