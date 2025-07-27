@@ -21,7 +21,7 @@ This repo is where I upload **notes, certificates, and projects** from my learni
 |--------------------------------------|-----------|-----------------------------------------------------|
 | Foundations of Cybersecurity by Google | Module 1 | [View Notes](./Google_Cybersecurity/Module1_Notes.md) |
 |                                      | Module 2 | [View Notes](./Google_Cybersecurity/Module2_Notes.md) |
-
+|                                      | Module 3 | [View Notes](./Google_Cybersecurity/Module3_Notes.md) |
 
 ---
 
