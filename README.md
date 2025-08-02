@@ -17,11 +17,14 @@ This repo is where I upload **notes, certificates, and projects** from my learni
 
 ## 🗂️ Notes Available
 
-| Course                               | Module    | Link                                                |
-|--------------------------------------|-----------|-----------------------------------------------------|
-| Foundations of Cybersecurity by Google | Module 1 | [View Notes](./Google_Cybersecurity/Module1_Notes.md) |
-|                                      | Module 2 | [View Notes](./Google_Cybersecurity/Module2_Notes.md) |
-|                                      | Module 3 | [View Notes](./Google_Cybersecurity/Module3_Notes.md) |
+| Certificate                | Course                        | Module    | Link                                                               |
+|---------------------------|-------------------------------|-----------|--------------------------------------------------------------------|
+| Google Cybersecurity      | Foundations of Cybersecurity  | Module 1  | [View Notes](Google_Cybersecurity/Course_1/Module1_Notes.md) |
+|       |   | Module 2  | [View Notes](Google_Cybersecurity/Course_1/Module2_Notes.md) |
+|       |   | Module 3  | [View Notes](Google_Cybersecurity/Course_1/Module3_Notes.md) |
+|       |   | Module 4  | [View Notes](Google_Cybersecurity/Course_1/Module4_Notes.md) |
+|       | Play It Safe – Manage Security Risks | Module 1  | *(Coming Soon)*                                                    |
+
 
 ---
 
